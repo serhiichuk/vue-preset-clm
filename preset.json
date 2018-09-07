@@ -1,12 +1,9 @@
 {
-	"useConfigFiles": true,
-	"router": true,
-	"vuex": true,
-	"cssPreprocessor": "sass",
-	"plugins": {
-		"@vue/cli-plugin-babel": {},
-		"vue-cli-plugin-clm-helper": {
-			"version": "1.0.0-beta-4"
-		}
-	}
+  "useConfigFiles": false,
+  "router": true,
+  "vuex": true,
+  "cssPreprocessor": "sass",
+  "plugins": {
+    "vue-cli-plugin-clm-helper": {}
+  }
 }
