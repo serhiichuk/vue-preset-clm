@@ -4,6 +4,8 @@
   "vuex": true,
   "cssPreprocessor": "sass",
   "plugins": {
-    "vue-cli-plugin-clm-helper": {}
+    "vue-cli-plugin-clm-helper": {
+      "version": "1.0.0-rc-11"
+    }
   }
 }
