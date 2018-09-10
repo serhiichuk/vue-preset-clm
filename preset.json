@@ -5,7 +5,7 @@
   "cssPreprocessor": "sass",
   "plugins": {
     "vue-cli-plugin-clm-helper": {
-      "version": "1.0.0-test-6",
+      "version": "1.0.1",
       "prompts": "true"
     }
   }
